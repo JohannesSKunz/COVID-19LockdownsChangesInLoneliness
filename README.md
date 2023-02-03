@@ -13,7 +13,7 @@ This repository contains replication files and data for [Kung, Kunz, and Shields
 
 The analysis is based on external restricted datasets that we do not re-post here since they are held by different entities. 
 
-Here we describe how to access them and provide our codes. We are encouraging any replication attempt and interested readers shall not hesitate to contact [Claryn Kung](mailto:naimi.johansson@regionorebrolan.se) about any of these. For brevity, we also exclude the multitude of replication files for the Appendix version but are happy to provide these upon request. 
+Here we describe how to access them and provide our codes. We are encouraging any replication attempt and interested readers shall not hesitate to contact [Claryn Kung](mailto:claryn.kung@ucl.ac.uk) about any of these. For brevity, we also exclude the multitude of replication files for the Appendix version but are happy to provide these upon request. 
 
 ## Replication do-files 
 
