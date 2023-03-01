@@ -17,13 +17,12 @@ Here we describe how to access them and provide our codes. We are encouraging an
 
 ## Replication do-files 
 
-Here we collect all do-files and data used in our analysis. We do not repost the full dataset as these were too large for the Github repository, please contact us if you have issues replicating it. 
-
-*These will be added shortly.*
+Here we collect the do-file used in our analysis. We do not repost the dataset as it is proprietary, which approved access and the dofile all main results should be replicable. Please let us know if you encounter any issues. 
 
 ## Data access
 
-*Description will be added shortly.*
+Data access will have to be applied for separately from [Understanding Society](https://www.understandingsociety.ac.uk/documentation/access-data).  
+
 
 ## Update History
 * **February 3, 2023**
