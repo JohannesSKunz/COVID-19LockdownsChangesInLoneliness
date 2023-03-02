@@ -21,7 +21,7 @@ Here we collect the do-file used in our analysis. We do not repost the dataset a
 
 ## Data access
 
-Data access will have to be applied for separately from [Understanding Society](https://www.understandingsociety.ac.uk/documentation/access-data).  
+Data access will have to be applied for separately from [Understanding Society](https://www.understandingsociety.ac.uk/documentation/access-data), the [COVID supplement](https://doi.org/10.5255/UKDA-SN-8644-11) and the [mainstage survey](ttps://doi.org/10.5255/UKDA-SN-6614-18) are necessary for replication h. 
 
 
 ## Update History
